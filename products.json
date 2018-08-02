@@ -24,5 +24,12 @@
         "image": "drone-large.jpg",
         "description": "Large drone for most critical missions. Can carry load.",
         "price": 499.99
+    },
+    {
+        "id": "2",
+        "title": "Small drone",
+        "image": "drone-small.jpg",
+        "description": "Small drone. Can fly undetected.",
+        "price": 199.99
     }
 ]
