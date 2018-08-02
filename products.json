@@ -1,0 +1,9 @@
+[
+    {
+        "id": "1",
+        "title": "Asus Vivobook Pro",
+        "image": "asus_vivobook.jpg",
+        "description": "Great notebook for developers",
+        "price": 999.99
+    }
+]
