@@ -1,6 +1,12 @@
 [
     {
         "id": "1",
+        "title": "Asus Vivobook Pro",
+        "image": "asus_vivobook.jpg",
+        "description": "Great notebook for developers",
+        "price": 999.99
+    }
+,
         "title": "Large drone",
         "image": "drone-large.jpg",
         "description": "Large drone for most critical missions. Can carry load.",
