@@ -1,4 +1,19 @@
+
 [
+    {
+
+        "id": "5",
+
+        "title": "Nice drone",
+
+        "image": "Dron.jpg",
+
+        "description": "Some text.",
+
+        "price": 100.5
+
+    }
+
     {
         "id": "1",
         "title": "Asus Vivobook Pro",
@@ -7,6 +22,7 @@
         "price": 999.99
     }
 ,
+  {
         "title": "Large drone",
         "image": "drone-large.jpg",
         "description": "Large drone for most critical missions. Can carry load.",
