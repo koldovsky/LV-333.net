@@ -1,4 +1,3 @@
-<<<<<<< HEAD
     [
         {
             "id": "1",
@@ -50,44 +49,3 @@
             "price": 99999.99
         }
     ]
-    
-=======
-
-[
-    {
-
-        "id": "5",
-
-        "title": "Nice drone",
-
-        "image": "Dron.jpg",
-
-        "description": "Some text.",
-
-        "price": 100.5
-
-    }
-
-    {
-        "id": "1",
-        "title": "Asus Vivobook Pro",
-        "image": "asus_vivobook.jpg",
-        "description": "Great notebook for developers",
-        "price": 999.99
-    }
-,
-  {
-        "title": "Large drone",
-        "image": "drone-large.jpg",
-        "description": "Large drone for most critical missions. Can carry load.",
-        "price": 499.99
-    },
-    {
-        "id": "2",
-        "title": "Small drone",
-        "image": "drone-small.jpg",
-        "description": "Small drone. Can fly undetected.",
-        "price": 199.99
-    }
-]
->>>>>>> 92b82a3940d62e639f6ae001cf3c15fb55eece34
