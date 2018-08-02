@@ -6,4 +6,10 @@
         "description": "Great notebook for developers",
         "price": 999.99
     }
+,
+        "title": "Large drone",
+        "image": "drone-large.jpg",
+        "description": "Large drone for most critical missions. Can carry load.",
+        "price": 499.99
+    }
 ]
