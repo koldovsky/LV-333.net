@@ -1,0 +1,16 @@
+
+[
+    {
+
+        "id": "5",
+
+        "title": "Nice drone",
+
+        "image": "Dron.jpg",
+
+        "description": "Some text.",
+
+        "price": 100.5
+
+    }
+]
